@@ -11,6 +11,7 @@ The entirety of the experiment was carried out in a McCord study room. Thus, a t
 A total of 32 runs were carried out. 
 
 ## 3. Data Analysis and Model Adequacy  
-
+Data Analysis and model adequacy checks, including residual analysis to ensure model assumptions are not violated.
 
 ## 4. Financial Analysis
+A Financial Analysis based on the design of the car and its performance. Are there any trade-offs. Are there any alternatives you would recommend to be more cost effective?
